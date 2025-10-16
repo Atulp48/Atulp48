@@ -4,7 +4,7 @@
 <h1 align="center">
   Hi 👋, I'm <span style="color:#6C63FF;">Atul Patel</span>
 </h1>
-<h3 align="center">💻 A Passionate Software Engineer from India 🇮🇳</h3>
+<h3 align="center">💻 A Passionate Software Engineer</h3>
 
 ---
 
