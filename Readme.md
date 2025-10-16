@@ -42,10 +42,16 @@
   <a href="https://www.linkedin.com/in/atul-kumar-patel-997337226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://www.geeksforgeeks.org/user/patelatp0j3/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
+  
+  <a href="https://leetcode.com/u/patelatp0j3/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
