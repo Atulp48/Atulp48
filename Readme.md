@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
   
-  <a href="https://leetcode.com/u/patelatp0j3/" target="_blank">
+  <a href="https://leetcode.com/u/patelatul948/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
