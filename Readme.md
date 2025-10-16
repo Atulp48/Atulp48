@@ -31,7 +31,7 @@
 
 - 🚀 Building full-stack applications using **React**, **Node.js**, **MongoDB**, and **Python**  
 - 🌱 Currently exploring **DevOps**, **Docker**, and **Cloud deployment**  
-- 👨‍💻 All my projects are available at: [🌐 Portfolio Website](https://atul18.netlify.app)  
+- 👨‍💻 All my projects are available at: [🌐 ATUL PATEL](https://atul18.netlify.app)  
 - 📫 Reach me at: **patelatul948@gmail.com**
 
 ---
