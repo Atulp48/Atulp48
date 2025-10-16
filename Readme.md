@@ -43,6 +43,3 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atulp48&show_icons=true&locale=en&layout=compact" alt="atulp48" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atulp48&" alt="atulp48" /></p>
